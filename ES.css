@@ -876,7 +876,7 @@ body{
     width: 215%;
     height: 135%;
 
-    background-image: url("/Studio/Html Css/projetos/Portfolio02/Imagens/SkillBar.png");
+    background-image: url("./Imagens/SkillBar.png");
 
     position: absolute;
     top: 0;
