@@ -362,7 +362,7 @@ body::-webkit-scrollbar {
     font-family: "Arvo", serif;
     color: white;
     overflow: hidden;
-    background-image: url("/Studio/Html Css/projetos/Portfolio02/Imagens/blackhole_gif\ \(650×496\).gif");
+    background-image: url("./Imagens/blackhole_gif\ \(650×496\).gif");
     /* cursor: pointer; */
     transition: border .25s, background-color .1s;
 }
@@ -900,7 +900,7 @@ body{
     height: 135%;
     
     background-color: hsl(210, 20%, 5%);
-    background-image: url("/Studio/Html Css/projetos/Portfolio02/Imagens/blackhole2.gif");
+    background-image: url("./Imagens/blackhole2.gif");
     opacity: 0.7;
     
 
@@ -1071,7 +1071,7 @@ body{
 } */
 
 .form-message {
-    background-image: url("/Studio/Html Css/projetos/Portfolio02/Imagens/blackhole_gif\ \(650×496\).gif");
+    background-image: url("./Imagens/blackhole_gif\ \(650×496\).gif");
     resize: none;
 }
 
